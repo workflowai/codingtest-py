@@ -1,0 +1,13 @@
+fastapi
+pydantic
+pytest
+pytest-asyncio
+freezegun
+pytest-httpx
+ruff
+cryptography
+httpx
+urllib3
+pydantic-core
+starlette
+uvicorn
