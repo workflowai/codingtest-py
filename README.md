@@ -11,7 +11,7 @@ source .venv/bin/activate
 # Install dependencies
 make install
 # Run api in auto reload mode
-make api
+make run
 ```
 
 VSCode configuration is provided as a start.
