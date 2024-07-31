@@ -20,3 +20,8 @@ Important libraries are:
 
 - pydantic, a data validation library (similar to dataclasses) https://docs.pydantic.dev/latest/
 - fastapi, an API framework https://fastapi.tiangolo.com/
+
+### LiveShare Extension (Optional)
+
+If you use VSCode, you can optionally add the live share
+extension so we can collaborate during the session.
